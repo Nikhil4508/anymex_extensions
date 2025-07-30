@@ -1,7 +1,7 @@
 const mangayomiSources = [{
     "name": "Anymex Special #2",
     "lang": "All",
-    "baseUrl": "https://moviebox.ng/",
+    "baseUrl": "https://moviebox.ph/",
     "apiUrl": "",
     "iconUrl": "https://raw.githubusercontent.com/RyanYuuki/AnymeX/main/assets/images/logo.png",
     "typeSource": "multi",
